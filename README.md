@@ -1,1 +1,1 @@
-Hello, I'm Allen Wang. I'm currently a senior majoring in CS at Cornell University. You can view the code for my past projects here. (Sorry if this is a little barebones!)
+Hello, I'm Allen Wang. I'm currently a software engineer at Roblox working on text safety. You can view the code for my past projects here (and now my resume too!).
